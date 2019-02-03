@@ -1,4 +1,4 @@
-Circuit: * C:\GitHub\SideProjects\UltrasoundBeam\SignalConditioning.asc
+Circuit: * C:\GitHub\SideProjects\SoundBea\UltrasoundBeam\SignalConditioning.asc
 
 Limiting rise time of source v1 to 1.25e-006
 Limiting fall time of source v1 to 1.25e-006
@@ -22,22 +22,21 @@ vernier = 0.000488281
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Heightened Def Con from 0.0115424 to 0.0115424
 
-Date: Sun Jan 27 17:22:50 2019
-Total elapsed time: 7.442 seconds.
+Date: Tue Jan 29 13:23:25 2019
+Total elapsed time: 31.172 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 354261
-traniter = 352719
-tranpoints = 110057
-accept = 78246
-rejected = 31812
-matrix size = 61
+totiter = 2978615
+traniter = 2977073
+tranpoints = 927969
+accept = 663966
+rejected = 264003
+matrix size = 63
 fillins = 327
 solver = Normal
-Matrix Compiler1: 23.14 KB object code size  4.8/3.1/[1.2]
-Matrix Compiler2: 10.72 KB object code size  3.4/3.4/[3.0]
+Matrix Compiler1: 23.19 KB object code size  5.9/2.4/[0.9]
+Matrix Compiler2:     744 opcodes  2.3/[2.2]/4.9
 
